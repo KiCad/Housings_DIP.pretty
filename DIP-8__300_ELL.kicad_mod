@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "8 pins DIL package, elliptical pads")
   (tags DIL)
-  (fp_text reference DIP-8__300_ELL (at -6.35 0 90) (layer F.SilkS)
+  (fp_text reference REF** (at -6.35 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 0) (layer F.SilkS)
+  (fp_text value DIP-8__300_ELL (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.08 -1.27) (end -3.81 -1.27) (layer F.SilkS) (width 0.15))
@@ -23,7 +23,7 @@
   (pad 6 thru_hole oval (at 1.27 -3.81) (size 1.5748 2.286) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole oval (at -1.27 -3.81) (size 1.5748 2.286) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole oval (at -3.81 -3.81) (size 1.5748 2.286) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model Sockets_DIP/DIP-8__300_ELL.wrl
+  (model Sockets_DIP.3dshapes/DIP-8__300_ELL.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

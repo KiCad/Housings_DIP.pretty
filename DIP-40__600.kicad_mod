@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Module Dil 40 pins, pads ronds, e=600 mils")
   (tags DIL)
-  (fp_text reference DIP-40__600 (at -19.05 -3.81) (layer F.SilkS)
+  (fp_text reference REF** (at -19.05 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 13.97 2.54) (layer F.SilkS)
+  (fp_text value DIP-40__600 (at 13.97 2.54) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -26.67 -1.27) (end -25.4 -1.27) (layer F.SilkS) (width 0.15))
@@ -55,7 +55,7 @@
   (pad 38 thru_hole circle (at -19.05 -7.62) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 39 thru_hole circle (at -21.59 -7.62) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 40 thru_hole circle (at -24.13 -7.62) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model Sockets_DIP/DIP-40__600.wrl
+  (model Sockets_DIP.3dshapes/DIP-40__600.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
