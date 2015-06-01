@@ -26,7 +26,7 @@
   (pad 6 thru_hole oval (at 7.62 5.08) (size 2.3 1.6)(drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole oval (at 7.62 2.54) (size 2.3 1.6)(drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole oval (at 7.62 0) (size 2.3 1.6)(drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model Housings_DIP/DIP-8_W7.62mm_LongPads.wrl
+  (model Housings_DIP.3dshapes/DIP-8_W7.62mm_LongPads.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -58,7 +58,7 @@
   (pad 38 thru_hole oval (at 25.4 5.08) (size 1.6 1.6)(drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 39 thru_hole oval (at 25.4 2.54) (size 1.6 1.6)(drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 40 thru_hole oval (at 25.4 0) (size 1.6 1.6)(drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model Housings_DIP/DIP-40_W25.4mm.wrl
+  (model Housings_DIP.3dshapes/DIP-40_W25.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
