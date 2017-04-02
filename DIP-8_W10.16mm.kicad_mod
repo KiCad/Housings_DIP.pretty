@@ -1,4 +1,4 @@
-(module DIP-8_W10.16mm (layer F.Cu) (tedit 58C0479F)
+(module DIP-8_W10.16mm (layer F.Cu) (tedit 58CC8E33)
   (descr "8-lead dip package, row spacing 10.16 mm (300 mils)")
   (tags "DIL DIP PDIP 2.54mm 10.16mm 400mil")
   (fp_text reference REF** (at 5.08 -2.39) (layer F.SilkS)
