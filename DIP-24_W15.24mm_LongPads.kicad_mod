@@ -49,7 +49,7 @@
   (pad 23 thru_hole oval (at 15.24 2.54) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 12 thru_hole oval (at 0 27.94) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 24 thru_hole oval (at 15.24 0) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model Housings_DIP.3dshapes/DIP-24_W15.24mm_LongPads.wrl
+  (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-24_W15.24mm_LongPads.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
