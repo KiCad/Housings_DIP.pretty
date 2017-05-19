@@ -40,7 +40,7 @@
   (pad 13 smd rect (at 4.765 -5.08) (size 2 1.78) (layers F.Cu F.Mask F.Paste))
   (pad 7 smd rect (at -4.765 7.62) (size 2 1.78) (layers F.Cu F.Mask F.Paste))
   (pad 14 smd rect (at 4.765 -7.62) (size 2 1.78) (layers F.Cu F.Mask F.Paste))
-  (model Housings_DIP.3dshapes/DIP-14_W9.53mm_SMD.wrl
+  (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W9.53mm_SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
