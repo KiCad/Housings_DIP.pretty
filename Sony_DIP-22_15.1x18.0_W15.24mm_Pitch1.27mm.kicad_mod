@@ -1,10 +1,10 @@
-(module Sony_DIP-22_W15.24mm_Pitch1.27mm (layer F.Cu) (tedit 59A5749B)
+(module Sony_DIP-22_15.1x18.0_W15.24mm_Pitch1.27mm (layer F.Cu) (tedit 59A5749B)
   (descr "DIP-22 http://www.datasheet4u.com/download_new.php?id=571963")
   (tags DIP-22)
   (fp_text reference REF** (at 2.25 -3.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Sony_DIP-22_W15.24mm_Pitch1.27mm (at 9.02 16.81) (layer F.Fab)
+  (fp_text value Housings_DIP:Sony_DIP-22_15.1x18.0_W15.24mm_Pitch1.27mm (at 9.02 16.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3 -3.02) (end -0.3 -3.02) (layer F.SilkS) (width 0.12))
@@ -49,7 +49,7 @@
   (pad 20 thru_hole circle (at 15.24 2.54) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   (pad 21 thru_hole circle (at 15.24 1.27) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   (pad 22 thru_hole circle (at 15.24 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Housings_DIP.3dshapes/Sony_DIP-22_W15.24mm_Pitch1.27mm.wrl
+  (model ${KISYS3DMOD}/Housings_DIP.3dshapes/Housings_DIP:Sony_DIP-22_15.1x18.0_W15.24mm_Pitch1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
