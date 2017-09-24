@@ -1,4 +1,4 @@
-(module SMDIP-22_W9.53mm (layer F.Cu) (tedit 59C697AE)
+(module SMDIP-22_W9.53mm (layer F.Cu) (tedit 59C75EE7)
   (descr "22-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)")
   (tags "SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil")
   (attr smd)

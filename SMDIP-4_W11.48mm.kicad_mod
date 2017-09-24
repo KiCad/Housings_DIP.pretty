@@ -1,4 +1,4 @@
-(module SMDIP-4_W11.48mm (layer F.Cu) (tedit 59C697AE)
+(module SMDIP-4_W11.48mm (layer F.Cu) (tedit 59C75EE7)
   (descr "4-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)")
   (tags "SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil")
   (attr smd)
