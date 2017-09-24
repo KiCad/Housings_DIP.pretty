@@ -54,7 +54,7 @@
   (pad 19 smd rect (at 4.445 -8.89) (size 3.1 1.6) (layers F.Cu F.Mask F.Paste))
   (pad 10 smd rect (at -4.445 11.43) (size 3.1 1.6) (layers F.Cu F.Mask F.Paste))
   (pad 20 smd rect (at 4.445 -11.43) (size 3.1 1.6) (layers F.Cu F.Mask F.Paste))
-  (model Housings_DIP.3dshapes/DIP-20_W8.89mm_SMDSocket_LongPads.wrl
+  (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-20_W8.89mm_SMDSocket_LongPads.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
